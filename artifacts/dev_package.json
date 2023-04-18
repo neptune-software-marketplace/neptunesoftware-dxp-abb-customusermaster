@@ -1,0 +1,49 @@
+{
+	"id": "58316a0f-d3dd-ed11-9f73-000d3aba0713",
+	"createdAt": "2023-04-18T10:23:29.510Z",
+	"createdBy": "lloyd.trevarthen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-customusermaster"
+	},
+	"name": "neptunesoftware-dxp-abb-customusermaster",
+	"description": null,
+	"ver": "23.4.18.1024",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "81e30f6f-32b0-4fd3-b6ae-60ed4b3202e0",
+			"application": "planet9_custom_usermaster",
+			"title": "",
+			"description": "Planet 9 - Custom User Management"
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
